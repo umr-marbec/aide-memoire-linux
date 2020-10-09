@@ -20,3 +20,5 @@ For simple operations:
 ```
 num=$(($num1 + $num2))
 ```
+
+**Warning: do not forget both brackets**
