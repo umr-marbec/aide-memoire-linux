@@ -3,6 +3,7 @@ Aide memoire for different linux things
 
 Auteur: Nicolas Barrier
 
-[Linux](linux)
+- [Linux](linux)
+- [VIM](vim)
 
 
