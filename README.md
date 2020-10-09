@@ -5,6 +5,8 @@ Aide memoire for different linux things
 
 ## Loops in bash
 
+Source: https://www.cyberciti.biz/faq/bash-for-loop/
+
 ```
 #!/bin/bash
 for i in {1..5}
