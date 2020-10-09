@@ -89,6 +89,14 @@ differentes variables d'environnement sont automatiquement creees:
 - `$3` : `/home/username` (etc. pour autant d'arguments)
 -   `$?` : `1` if error was occurred, else `0`
 
+To check if the command worked:
+
+```
+if [ $? -eq 0 ]; then
+    echo "Success!"
+fi
+```
+
 ## Taille d'une variable 
 
 Pour obtenir la taille d'une variable d'environnement (nombres de caracteres), rajouter un `#` devant:
