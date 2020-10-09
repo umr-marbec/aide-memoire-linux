@@ -1,7 +1,4 @@
-Aide memoire for different linux things
-================================================
-
-# Bash
+# LINUX
 
 ## Loops in bash
 

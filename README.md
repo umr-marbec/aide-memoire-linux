@@ -3,6 +3,6 @@ Aide memoire for different linux things
 
 Auteur: Nicolas Barrier
 
-[Linux](Linux)
+[Linux](linux)
 
 
