@@ -73,8 +73,6 @@ F90, il faut ajouter dans le `.vimrc`, juste avant le `syntax on\`:
 
     au BufRead,BufNewFile *.f90 let b:fortran_free_source=1
 
-## Do loops, F90
-
 Par default, les do loops ne sont pas indentees pour ne pas \"abimer\"
 les boucles du type `go to` ou les boucles avec label. Si on part du
 principe que ces boucles n'existent pas dans les fichiers au format
